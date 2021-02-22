@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./.github/earth-globe.svg" />
+  My Linktree
 </h1>
 
 <p align="center">
